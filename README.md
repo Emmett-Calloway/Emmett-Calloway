@@ -11,4 +11,6 @@ I'm a passionate tech enthusiast with skills in **Python** and **JavaScript** de
 ## 🌱 What I'm Up To
 I'm continually building upon my knowledge and exploring new technologies. I'm currently looking for opportunities in IT support, software development, and systems scripting.
 
-Let's connect and build something great together!
+## CURRENTLY LOOKING FOR WORK
+
+[My Resume](emmet-calloway.github.io)
