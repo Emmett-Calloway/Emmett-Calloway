@@ -13,4 +13,4 @@ I'm continually building upon my knowledge and exploring new technologies. I'm c
 
 ## CURRENTLY LOOKING FOR WORK
 
-[My Resume](emmet-calloway.github.io)
+[My Resume](https://emmet-calloway.github.io)
